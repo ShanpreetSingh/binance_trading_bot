@@ -50,21 +50,5 @@ python main.py
 | Stop-Limit  | Trigger at stop price            | symbol, side, quantity, price, stop_price |
 | OCO         | One-Cancels-Other order          | symbol, side, quantity, price, stop_price, stop_limit_price |
 
-## Project Structure
-
-binance-trading-bot/
-├── bot/
-│   ├── core.py
-│   ├── order_types.py
-│   ├── utils.py
-│   └── exceptions.py
-├── cli/
-│   ├── interface.py
-│   └── prompts.py
-├── logs/
-├── tests/
-├── main.py
-├── config.json
-└── requirements.txt
 
 
