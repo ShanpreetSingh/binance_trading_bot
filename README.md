@@ -18,7 +18,7 @@
 
 ## Installation
 
-git clone [https://github.com/yourusername/binance-trading-bot.git](https://github.com/ShanpreetSingh/binance_trading_bot.git)
+git clone https://github.com/ShanpreetSingh/binance_trading_bot.git
 cd binance-trading-bot
 pip install -r requirements.txt
 
